@@ -28,9 +28,6 @@ We generate a BIP39 mnemonic phrase (12 English words). The phrase derives an AE
 **Q: How do I cancel my subscription?**
 On iOS: Settings → [your name] → Subscriptions → Whisker → Cancel. Cancellation takes effect at the end of the current paid period.
 
-**Q: Does Whisker work on iPad?**
-Yes — the same iOS app runs on iPad with adaptive layouts.
-
 **Q: Does Whisker work without internet?**
 Yes. The only feature that needs the network is the in-app purchase flow, and even that can fall back to "Restore Purchases" later.
 
